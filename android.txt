@@ -1,0 +1,4 @@
+title=squarescity
+author=Petras Zdanavicius
+api=1
+orientation=landscape
